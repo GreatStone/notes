@@ -1,0 +1,6 @@
+[book]
+authors = ["GreatStone"]
+language = "en"
+multilingual = false
+src = "src"
+title = "GreatStone's reading note"
